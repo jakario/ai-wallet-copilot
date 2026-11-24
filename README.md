@@ -3,10 +3,12 @@
 > **Paste any BNB Chain address or URL. Audit habits, neutralize drainers, and master ecosystem testnets with ChainOpera AI.**
 
 [![Live Production Beta](https://img.shields.io/badge/Live%20Demo-ai--wallet--copilot.vercel.app-00d4aa?style=for-the-badge)](https://ai-wallet-copilot.vercel.app)
+[![Demo Video (90s)](https://img.shields.io/badge/Demo%20Video-90s%20Walkthrough-ff0000?style=for-the-badge&logo=youtube)](https://youtu.be/ilGU5vMSbLs)
 [![BNB Smart Chain](https://img.shields.io/badge/Network-BNB%20Smart%20Chain%20(56)-f3ba2f?style=for-the-badge)](https://bscscan.com/token/0x0a8d6c86e1bce73fe4d0bd531e1a567306836ea5)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16.4.6-black?style=for-the-badge)](https://nextjs.org/)
 
 - **Live Production Beta:** https://ai-wallet-copilot.vercel.app
+- **90-Second Demo Video:** https://youtu.be/ilGU5vMSbLs
 - **Builder:** `jakario` — Indie DeFi Developer (Bangkok, Thailand / UTC+7)
 - **Contact:** `jakario@gmail.com` | X: `@jakario` | Discord: `@jakario`
 - **Ecosystem Track:** ChainOpera AI Co-Creation Grant
